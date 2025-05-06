@@ -1,4 +1,6 @@
-﻿@@ -1,29 + 1,33 @@
+﻿@@ using OOP.Polymorhism;
+
+-1,29 + 1,33 @@
 ﻿using OOP.Abstraction;
 using OOP.Aggregation;
 using OOP.Composition;
@@ -28,7 +30,7 @@ OOP.Inheritance.GoodExample.GoodProgram.Main();
 //OOP.Polymorphism.GoodExample.GoodProgram.Main();
 OOP.Polymorphism.BadExample.BadProgram.Main();
 OOP.Polymorphism.GoodExample.GoodProgram.Main();
-OOP.Polymorphism.MethodOverloading.Main();
+MethodOverloading.Main();
 OOP.Polymorphism.OperatorOverloading.Main();
 
 // Coupling
